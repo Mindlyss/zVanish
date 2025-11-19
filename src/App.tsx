@@ -357,8 +357,12 @@ export default function ZcashBridgeApp() {
       
       {/* Navbar */}
       <nav className="relative z-50 flex items-center justify-between px-8 py-8 max-w-7xl mx-auto w-full overflow-visible">
-        <div className="flex items-center gap-4 group cursor-pointer">
-          {/* Text-based branding only */}
+        <div className="flex items-center gap-3 group cursor-pointer">
+          <img 
+            src="/assets/images/zv.png" 
+            alt="zVanish Logo"
+            className="h-8 w-8 object-contain"
+          />
           <span className="text-2xl font-display font-bold tracking-tighter text-white">
             z<span className="text-emerald-500">Vanish</span>.com
           </span>
