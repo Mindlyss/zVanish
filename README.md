@@ -6,7 +6,7 @@ zVanish is a cutting-edge privacy bridge that enables seamless, anonymous asset 
 
 ## 📧 Contract Address
 
-**Contract Address:** 
+**Contract Address:2rwJLNhze925MwEDgmMqLhHzEwRQAkMtNQ1rZFwbpump** 
 
 
 ## 🔒 Privacy Technology
