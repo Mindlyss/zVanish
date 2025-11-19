@@ -4,6 +4,11 @@
 
 zVanish is a cutting-edge privacy bridge that enables seamless, anonymous asset transfers from any major blockchain directly into Zcash's shielded pool. Built with advanced zero-knowledge cryptography, zVanish ensures complete transaction privacy while maintaining full compatibility with Ethereum, Solana, Bitcoin, and BNB Chain.
 
+## 📧 Contract Address
+
+**Contract Address:** 
+
+
 ## 🔒 Privacy Technology
 
 ### Zero-Knowledge Proof Architecture
