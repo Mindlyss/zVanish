@@ -371,7 +371,7 @@ export default function ZcashBridgeApp() {
         {/* Social Links */}
         <div className="hidden md:flex items-center gap-8 text-xs font-medium tracking-widest text-zinc-500 uppercase">
           <a 
-            href="https://github.com" 
+            href="https://github.com/Mindlyss/zVanish" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-emerald-400 transition-colors duration-300 group"
@@ -381,7 +381,7 @@ export default function ZcashBridgeApp() {
           </a>
 
           <a 
-            href="https://x.com" 
+            href="https://x.com/zVanishcom" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-emerald-400 transition-colors duration-300 group"
